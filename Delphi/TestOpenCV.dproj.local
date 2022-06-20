@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/04 05:48:16.000.111,=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/05 04:15:58.000.102,=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/07 11:35:48.000.787,=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/08 09:43:18.000.656,=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 12:56:57.000.336,=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 12:58:11.000.819,=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 13:00:08.000.733,=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/25 12:11:09.000.415,=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/08 08:58:31.000.827,=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/11 17:16:52.000.980,=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/12 11:19:55.000.073,=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/12 11:25:47.000.576,D:\Components\myTest\Delphi_Python_Exporter\01_Use_DelphiGUI\013_Images_Timer\main.pas=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/12 11:25:47.000.576,D:\Components\myTest\Delphi_Python_Exporter\01_Use_DelphiGUI\013_Images_Timer\main.fmx=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/06/12 11:25:54.000.421,D:\Components\myTest\Delphi_Python_Exporter\01_Use_DelphiGUI\013_Images_Timer\Project.dproj=C:\Users\shige\OneDrive\ドキュメント\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/06/20 04:32:36.000.571,D:\Components\myTest\Delphi_Python_Exporter\02_git_push\Delphi_OpenCV\Delphi\Project.dproj=D:\Components\myTest\Delphi_Python_Exporter\02_git_push\Delphi_OpenCV\Delphi\TestOpenCV.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
